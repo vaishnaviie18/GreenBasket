@@ -1,59 +1,71 @@
-# 🌿 PlantWorld
+🧺 GreenBasket
+"Your one-stop shop for greenery and garden essentials, delivered with care."
 
-> _"Bringing nature to your doorstep, one plant at a time."_
+GreenBasket is a fully responsive e-commerce platform designed for plant lovers. It allows users to explore a wide variety of plants and gardening tools, make secure purchases, track orders in real-time, and manage their profiles. The admin dashboard offers full control over products, users, orders, and FAQs, all wrapped in a clean and modern UI.
 
-**PlantWorld** is a fully responsive, e-commerce website for exploring and buying plants and gardening tools. It offers secure login, real-time order tracking, Razorpay payment, profile management, and an intuitive admin panel for complete control over products, orders, users, and FAQs.
+⚙️ Tech Stack
+Frontend:
 
----
+⚛️ React.js
 
-## ⚙️ Tech Stack
+🎨 Tailwind CSS & Material UI
 
-**Frontend:**
-- ⚛️ React.js  
-- 🎨 Tailwind CSS, Material UI
-- 🔁 React Router
-- 🌐 API Integration
-- 💳 Razorpay Integration
+🔁 React Router
 
-**Backend:**
-- 🖥️ Node.js, Express.js  
-- 🍃 MongoDB, Mongoose  
-- 🔐 JWT Authentication
-- 🌐 RESTful API Endpoints
-- 💳 Razorpay Integration  
+🌐 API Integration
 
----
+💳 Razorpay Payment Gateway
 
-## ✨ Features
+Backend:
 
-### 👤 User Side
-- 🔐 Register, Login, Logout
-- 🪴 Browse plants with details and care tips
-- 🔍 Advanced search & filtering
-- 🛒 Add to cart & checkout
-- 💳 Razorpay Payment Gateway Integration
-- 📦 Real-time Order Tracking
-- 👤 Edit profile, view previous orders
-- 🔁 Forgot & update password
-- ❓ View FAQs section
-- ✉️ Contact Form: receive confirmation email & message copy
-- 📝 Read informative Blogs
-- ⚙️ Settings: update password, delete account
-- 🔒 Fully protected user routes
-- 🧩 Utility-first clean UI with Tailwind & MUI
+🖥️ Node.js & Express.js
 
-### 🛠️ Admin Side
-- 🔐 Secure Admin Login
-- 🌿 Manage Plants: Add, Edit, Delete
-- 📦 Manage Orders: Update tracking status, View User and Order Details
-- 👥 Manage Users: View
-- ❓ Manage FAQs
-- 🎯 Protected admin routes
-- 🧩 Utility-first clean UI with Tailwind & MUI
+🍃 MongoDB with Mongoose
 
----
+🔐 JWT for Authentication
 
-<br>
+🌐 RESTful APIs
+
+💳 Razorpay Integration
+
+✨ Key Features
+👥 User Functionality
+🔐 User Authentication: Sign up, log in, log out securely
+
+🌱 Browse a curated collection of plants with care instructions
+
+🔍 Smart Search and Filtering
+
+🛒 Add items to cart and complete checkout with Razorpay
+
+📦 Live order tracking and order history
+
+👤 Profile management with password reset and update options
+
+❓ View FAQs and use the Contact Form (auto email confirmation + copy)
+
+📝 Explore informative blog content
+
+⚙️ Full user settings, including account deletion
+
+🔐 Securely protected routes for authenticated users
+
+🧩 Sleek and responsive design using Tailwind & MUI
+
+🛠️ Admin Dashboard
+🔐 Secure admin login
+
+🌿 Product Management: Add, edit, delete plant listings
+
+📦 Order Management: Update tracking status, view full details
+
+👥 User Overview: View all registered users
+
+❓ FAQ Management
+
+🔒 All admin routes are protected
+
+🧩 Clean UI built with Tailwind CSS & MUI
 
 <div align="center">
 
