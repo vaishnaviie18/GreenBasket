@@ -66,10 +66,3 @@ Backend:
 🔒 All admin routes are protected
 
 🧩 Clean UI built with Tailwind CSS & MUI
-
-<div align="center">
-
-Thank you for checking out <strong>PlantWorld</strong>! 🌱 <br>
-If you like this project, feel free to give it a star! ⭐ <br>
-
-</div>
